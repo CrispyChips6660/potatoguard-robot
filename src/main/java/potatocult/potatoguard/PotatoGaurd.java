@@ -1,4 +1,4 @@
-package potatocult.potatogaurd;
+package potatocult.potatoguard;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
